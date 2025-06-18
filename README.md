@@ -1,5 +1,6 @@
 # Laporan Proyek Machine Learning Predictive Analytics - Muhammad Fahmi Hutomo
 <img src="images/Proyek Akhir ML Terapan.JPG" alt="Info Awal" width="400"/>     
+
 ## Latar Belakang
 
   Menurut El Mouna et al. (2023), "Prediksi harga rumah merupakan isu utama dalam bidang real estat, keuangan, dan pengembangan. Perkiraan yang akurat terhadap nilai pasar perumahan memungkinkan pembeli, penjual, dan investor membuat keputusan yang lebih terinformasi. Dalam beberapa tahun terakhir, teknik pembelajaran mesin telah memainkan peran penting dalam pengembangan model peramalan harga rumah. Tinjauan ini memberikan gambaran umum tentang penelitian di bidang peramalan harga rumah."
