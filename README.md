@@ -1,5 +1,4 @@
 # Laporan Proyek Machine Learning Predictive Analytics - Muhammad Fahmi Hutomo
-<img src="images/Proyek Akhir ML Terapan.JPG" alt="Info Awal" width="400"/>     
 
 ## Latar Belakang
 
